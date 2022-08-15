@@ -10,5 +10,6 @@ I am a Data Engineer.
 - 🔭 I’m currently working on End to End Data Engineering Projects 
 - 🌱 I’m currently learning Big Data,Python,SQL,Scala ,Spark and Shell Scripting 
 - 👯 I’m looking to collaborate on Data Engineering Projects
-- 📫 How to reach me: pawannegi.negi@gmail.com
+- 📫 How to reach me: pawannegi.negi@gmail.com 
+- 🔗 LinkedIn : https://www.linkedin.com/in/pawan-negi-299203104/
 
